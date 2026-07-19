@@ -34,4 +34,4 @@ jobs:
         env:
           BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
         run: |
-          ./linux-amd64/butler push dist rahul008/modi-man:html
+          ./linux-amd64/butler push dist naruto-pasta/modi-man:html
